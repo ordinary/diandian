@@ -46,8 +46,12 @@ public class Sample {
 		// baiduBCS.setDefaultEncoding("GBK");
 		baiduBCS.setDefaultEncoding("UTF-8"); // Default UTF-8
 		try {
+
+
+
 			// -------------bucket-------------
 			// listBucket(baiduBCS);
+
 			// createBucket(baiduBCS);
 			// deleteBucket(baiduBCS);
 			// getBucketPolicy(baiduBCS);

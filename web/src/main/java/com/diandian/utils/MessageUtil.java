@@ -46,6 +46,12 @@ public class MessageUtil {
      */
     public static final String REQ_MESSAGE_TYPE_TEXT = "text";
 
+
+
+
+
+
+
     /**
      * 请求消息类型：图片
      */
